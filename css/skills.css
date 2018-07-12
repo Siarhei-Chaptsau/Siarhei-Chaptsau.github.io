@@ -54,6 +54,17 @@
   height: 430px;
 }
 
+.skills__image:hover {
+  transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  box-shadow: 0 0 30px grey;
+  webkit-box-shadow: 0 0 30px grey;
+ -moz-box-shadow: 0 0 30px gray;
+  opacity: 1;
+}
+
 .skills__items {
   display: block;
   max-width: 1200px;
