@@ -48,11 +48,11 @@ ol, ul {
 }
 
 .parallax-window {
-  min-height: 50px;
+  min-height: 30px;
   background: transparent;
 }
 
 .parallax-window-half {
-  min-height: 120px;
+  min-height: 20px;
   background: transparent;
 }
