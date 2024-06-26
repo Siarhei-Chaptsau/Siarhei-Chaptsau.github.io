@@ -1,6 +1,6 @@
 .skills {
   width: 100%;
-  min-height: 100vh;
+  min-height: 570px;
   margin: 0 auto;
 }
 
@@ -13,7 +13,7 @@
 
 .skills__title {
   text-align: center;
-  margin-bottom: 30px;
+  margin: 30px 0;
   font-size: 32px;
   color: #FF5722;
 }
