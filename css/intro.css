@@ -73,9 +73,9 @@
   }
   100% {
     width: 260px;
-    height: 420px;
-    background: #FFFFFF;
-    border-radius: 4px;
+    height: 380px;
+    background: #ebfcff;
+    border-radius: 5px;
   }
 }
 
@@ -101,11 +101,11 @@
   max-width: 100%;
   border-radius: 50%;
   transition: box-shadow 0.3s ease;
-  box-shadow: 0px 0px 0px 15px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 0 0 15px rgba(0, 0, 0, 0.06);
 }
 
 .intro__logo-link:hover > .intro__logo-image{
-  box-shadow: 0px 0px 0px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 0 6px rgba(0, 0, 0, 0.1);
 }
 
 .intro__title {
@@ -134,7 +134,7 @@
   }
   100% {
     opacity: 1;
-    margin-top: 20px;
+    margin-top: 10px;
   }
 }
 

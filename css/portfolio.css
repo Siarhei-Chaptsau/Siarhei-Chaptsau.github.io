@@ -40,7 +40,7 @@
     min-width: 320px;
   }
 
-  .post__image-contaner {
+  .post__image-container {
     margin: 0 auto;
   }
 }
@@ -61,7 +61,7 @@
 }
 
 .post__content {
-  padding: 17px 0 10px 15px;
+  padding: 15px 8px 10px;
   box-sizing: border-box;
   flex-grow: 1;
 }

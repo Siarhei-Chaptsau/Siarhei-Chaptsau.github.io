@@ -15,7 +15,7 @@
   text-align: center;
   margin: 30px 0;
   font-size: 32px;
-  color: #FF5722;
+  color: #f64209;
 }
 
 .skills__post {
@@ -29,10 +29,11 @@
   margin-bottom: 40px;
   padding: 5px 25px;
   list-style: initial;
-  background-color: rgba(255, 255, 255, .5);
+  background-color: rgba(255, 255, 255, .7);
 }
 
 .skills__desc-item {
+  margin-bottom: 7px;
   line-height: 1.9;
   font-size: 20px;
   color: black;
@@ -50,7 +51,12 @@
   display: inline-block;
   margin: 7px;
   padding: 7px 10px;
-  color: #374054;
-  background: #e4e4ea;
+  color: black;
+  background: #1e1ed699;
   font-size: 20px;
+
+  &:hover {
+    cursor: pointer;
+    background: #1e1ed6f0;
+  }
 }
